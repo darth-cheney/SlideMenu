@@ -10,7 +10,7 @@ In short, you may have seen sites that have static tabs on the side of the windo
 <br/>
 <h3>The Code</h3>
 <code>
-	$(element).slideMenu(direction, tabElement, speed, callback)
+	$(element).slideMenu(direction, tabElement, speed)
 </code>
 <br/>
 <h4>Attributes</h4>

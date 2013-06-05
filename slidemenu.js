@@ -95,8 +95,6 @@
 	 			}
 	 		});
 	 	}
-	 if(callback) {
-	 	callback();
 	 }		
  	return this;
  	}
